@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Boutons d'opérations -->
+    <style name="BTN_CALC">
+        <item name="android:background">@drawable/btn_calc</item>
+    </style>
+
+    <!-- Boutons chiffres -->
+    <style name="BTN_CHIFFRE">
+        <item name="android:backgroundTint">@color/boutons_background</item>
+        <item name="android:textColor">@color/boutons_text</item>
+    </style>
+
+</resources>
